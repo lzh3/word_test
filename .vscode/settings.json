@@ -1,0 +1,6 @@
+{
+    "git.allowForcePush": true,
+    "git.ignoredRepositories": [
+        ".idea"
+    ]
+}
